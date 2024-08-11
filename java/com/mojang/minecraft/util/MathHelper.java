@@ -2,6 +2,7 @@ package com.mojang.minecraft.util;
 
 public final class MathHelper {
 
+   // do i even use this code???
    private static float[] SIN_TABLE = new float[65536];
 
 
